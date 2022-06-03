@@ -6,5 +6,5 @@ Currently, my biggest interest is webpage development, and hence I am most often
 
 When I'm not programming, I'm most likely out exploring the beauty of Vancouver Island, playing my synthesizer, or playing recreational soccer. 
 
-To learn more about me or to view some of my projects visit: https://jjcharlinski.ca
+To learn more about me or to view some of my projects visit <a href="https://jjcharlinski.ca" target="_blank">my website.</a>
 
